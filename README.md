@@ -28,7 +28,7 @@ The instruction of commands has been clearly stated in the codes.
 
 ```
 ​```
-python main_knowledge_mlp.py
+python run/main_knowledge_mlp.py
 ​```
 ```
 
